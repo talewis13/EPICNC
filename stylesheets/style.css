@@ -30,6 +30,9 @@ header{
     text-align: center;
     max-height: 50%;
 }
+#logo{
+    max-height: 50%;
+}
 nav{
     background: #a09885;
     padding: 0;
