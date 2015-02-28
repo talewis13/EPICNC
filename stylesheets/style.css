@@ -10,10 +10,11 @@ h3 {
 p {
     padding: 2%;
     color: green;
+    font-family: "times new roman", sarif;
 }
 img {
     text-align: "center";
-    max-width: 50%;
+    max-width: 100%;
     height: auto;
     width: auto;
 }
