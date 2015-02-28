@@ -4,8 +4,8 @@ body {
     color: #0800FF;
 }
 h3 {
-    text-align: "center";
-    text-decoration: "unerline";
+    text-align: center;
+    text-decoration: underline;
 }
 p {
     padding: 2%;
@@ -13,7 +13,7 @@ p {
     font-family: "times new roman", sarif;
 }
 img {
-    text-align: "center";
+    text-align: center;
     max-width: 100%;
     height: auto;
     width: auto;
