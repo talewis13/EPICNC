@@ -1,7 +1,7 @@
 body {
     background: #4bdab5;
     font-family: "helvettica, arial", sarif;
-    color: #804000;
+    color: #000000;
 }
 h3 {
     text-align: center;
@@ -22,7 +22,7 @@ img {
     margin: 0 auto;
     max-width: 980px;
     width: 96%;
-    background: #800000
+    background: #fff;
     padding: 2%;
     border-radius: 10px;
 }
