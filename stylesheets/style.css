@@ -1,14 +1,15 @@
 body {
-    background: #dad5c1;
+    background: #4bdab5;
     font-family: "helvettica, arial", sarif;
-    color: #0800FF;
+    color: #000000;
 }
 h3 {
     text-align: center;
+    text-decoration: underline;
 }
 p {
     padding: 2%;
-    color: green;
+    color: #000000;
     font-family: "times new roman", sarif;
 }
 img {
@@ -21,7 +22,7 @@ img {
     margin: 0 auto;
     max-width: 980px;
     width: 96%;
-    background: #cbbb9b;
+    background: #fff;
     padding: 2%;
     border-radius: 10px;
 }
@@ -42,7 +43,7 @@ nav ul{
     padding: 0;
 }
 nav li a{
-    color: black;
+    color: #ff0000;
     display: block;
     float: left;
     padding: 20px;
