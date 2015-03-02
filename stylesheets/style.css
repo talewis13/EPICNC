@@ -27,6 +27,10 @@ img {
 header{
     padding: 5px;
     text-align: right;
+    height:auto;
+    width:auto;
+    max-width:500px;
+    max-height:500px;
 }
 nav{
     background: #a09885;
